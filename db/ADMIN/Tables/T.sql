@@ -1,0 +1,4 @@
+CREATE TABLE "ADMIN"."T" (
+  x NUMBER(*,0) NOT NULL,
+  PRIMARY KEY (x)
+);
